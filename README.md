@@ -35,7 +35,8 @@ The project was developed during professional training practices by a team of 4 
 
 ### Network Diagram
 
-![Network Diagram](documentacion/Mapa_de_Red.png)
+<img width="1340" height="808" alt="image" src="https://github.com/user-attachments/assets/abe4c084-6004-443f-8bfb-5d06f3b0bae2" />
+
 
 ## Features
 
