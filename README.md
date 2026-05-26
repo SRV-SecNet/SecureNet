@@ -1,9 +1,6 @@
 # SecureNet
 Implementation of a secure corporate VPN using WireGuard on Ubuntu Server, with firewall hardening via iptables, centralized monitoring (Grafana/Loki), Docker-based services, and automated security audits using Bash and Telegram API.
 
-# SecureNet
-Secure VPN infrastructure with WireGuard, Docker, Grafana/Loki monitoring and Linux perimeter security
-
 ## Overview
 
 SecureNet is a cybersecurity and systems administration project focused on deploying a secure VPN infrastructure with perimeter protection, monitoring, logging and automated auditing.
